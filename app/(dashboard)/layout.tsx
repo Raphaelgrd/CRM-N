@@ -1,10 +1,11 @@
 import { Sidebar } from "@/components/Sidebar";
 import { Header } from "@/components/Header";
+import type { ReactNode } from "react";
 
 export default function DashboardLayout({
   children,
 }: {
-  children: React.ReactNode;
+  children: ReactNode;
 }) {
   return (
     <div className="bg-surface-page flex h-screen overflow-hidden">

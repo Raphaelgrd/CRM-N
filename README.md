@@ -58,5 +58,3 @@ npx vercel
 ## Prochaine étape recommandée
 Envoie l'export HTML de `/dashboard` (la page la plus consultée) et on
 continue la reconstruction page par page.
-# CRM-N
-# CRM-N
