@@ -46,8 +46,8 @@ export function Sidebar({ userInitial = "R" }: { userInitial?: string }) {
             alt="Netforce"
             width={140}
             height={140}
-            className="object-contain transition-all duration-300 h-7 w-7 lg:h-7 lg:w-7"
-            src="/netforce.jpg"
+            className="object-contain transition-all duration-300 h-8 w-auto lg:h-8"
+            src="/netforce-logo.png"
           />
         </div>
         <div className="relative">
