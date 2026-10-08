@@ -44,10 +44,10 @@ export function Sidebar({ userInitial = "R" }: { userInitial?: string }) {
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             alt="Netforce"
-            width={140}
-            height={140}
-            className="object-contain transition-all duration-300 h-8 w-auto lg:h-8"
-            src="/netforce-logo.png"
+            width={200}
+            height={36}
+            className="object-contain transition-all duration-300 h-8 w-auto"
+            src="/netforce-logo.svg"
           />
         </div>
         <div className="relative">
